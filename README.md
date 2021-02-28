@@ -1,17 +1,17 @@
 # Hi there 👋
 
-## Sobre mim
+## Sobre Mim
 
 Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e artes gráficas sou atualmente autodidata em HTML5 | CSS3 | JAVASCRIPT | TYPESCRIPT | REACT.JS | NEXT.JS e DESING.
 
-## Tecnologias
+## Tecnologias e Ferramentas
 
-### Tenho experiência
+### Tenho Experiência
 
 <code><img height="30" src="./GitHub/html.svg"></code>
 <code><img height="30" src="./GitHub/css-3.svg"></code>
 
-### Estou estudando
+### Estou Estudando
 <code><img height="30" src="./GitHub/javascript.svg"></code>
 <code><img height="30" src="./GitHub/Typescript.svg"></code>
 <code><img height="30" src="./GitHub/react.svg"></code>
