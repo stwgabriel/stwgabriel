@@ -20,9 +20,9 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 
 ### Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel)](https://github.com/StwGabriel/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact)](https://github.com/StwGabriel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
 ## Social & Profissional
 
 <a href='https://www.instagram.com/stw_gabriel/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></img> </a>
