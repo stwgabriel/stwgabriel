@@ -29,6 +29,6 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 <a href='https://www.linkedin.com/in/stwgabriel/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img> </a>
 <a href='https://github.com/StwGabriel'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img> </a>
 <a href='https://www.youtube.com/channel/UCQdFFC-ZOxK7hfsdq5qQ--g'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></img> </a>
-<a href='mailto:gabbrielsilvactt@gmail.com?Subject=Vim%20Pelo%20GitHub%20/%20I%20came%20through%20GitHub'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img> </a>
+<a href='mailto:gabbrielsilvactt@gmail.com?Subject=Vim%20Pelo%20GitHub'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img> </a>
 
 link Rapido: https://cutt.ly/Bh8DJ03
