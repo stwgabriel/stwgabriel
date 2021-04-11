@@ -33,4 +33,4 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 <a href='mailto:gabbrielsilvactt@gmail.com?Subject=Vim%20Pelo%20GitHub'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img> </a>
 
 
-link Rapido: https://cutt.ly/Bh8DJ03
+link Rapido: https://bit.ly/Stw_Gabriel
