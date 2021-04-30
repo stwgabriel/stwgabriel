@@ -25,12 +25,13 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 <code><img title='Next.Js' height="30" src="./GitHub/nextjs.png"></code>
 <code><img title='React Native' alt='React Native' height="30" src="./GitHub/react-native-logo.png"></code>
 
-### GitHub stats
+### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
-## Social & Profissional
+
+## Social e Profissional
 
 <a href='https://www.instagram.com/stwgabriel/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></img> </a>
 <a href='https://www.linkedin.com/in/stwgabriel/'><img title='Perfil do Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img> </a>
