@@ -10,7 +10,7 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 
 <code><img title='HTML5' height="30" src="./GitHub/html.svg"></code>
 <code><img title='CSS3' height="30" src="./GitHub/css-3.svg"></code>
-<code><img title='Sass' height="30" src="./GitHub/sass.png"></code>
+<code><img title='Sass' height="30" src="./GitHub/sass-icon.png"></code>
 <code><img title='Git' height="30" src="./GitHub/Git_icon.svg.png"></code>
 
 ### Estou Estudando
