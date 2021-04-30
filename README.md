@@ -19,13 +19,13 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 <code><img title='React' height="30" src="./GitHub/react.svg"></code>
 
 
-### Tenho Interesse
+### Pretendo Estudar
 
 <code><img title='Typescript' height="30" src="./GitHub/Typescript.svg"></code>
 <code><img title='Next.Js' height="30" src="./GitHub/nextjs.png"></code>
 <code><img title='React Native' alt='React Native' height="30" src="./GitHub/react-native-logo.png"></code>
 
-### Stats
+### GitHub stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
 
