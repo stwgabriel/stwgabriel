@@ -8,21 +8,21 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 
 ### Tenho Experiência
 
-<code><img title='HTML5' height="30" src="./GitHub/html.svg"></code>
-<code><img title='CSS3' height="30" src="./GitHub/css-3.svg"></code>
-<code><img title='Sass' height="30" src="./GitHub/sass-icon.png"></code>
-<code><img title='Git' height="30" src="./GitHub/Git_icon.svg.png"></code>
+<code><img title='HTML5' height="30" src=".GitHub/html.svg"></code>
+<code><img title='CSS3' height="30" src=".GitHub/css-3.svg"></code>
+<code><img title='Sass' height="30" src=".GitHub/sass-icon.png"></code>
+<code><img title='Git' height="30" src=".GitHub/Git_icon.svg.png"></code>
 
 ### Estou Estudando
 
-<code><img title='Javascript' height="30" src="./GitHub/javascript.svg"></code>
-<code><img title='React' height="30" src="./GitHub/react.svg"></code>
+<code><img title='Javascript' height="30" src=".GitHub/javascript.svg"></code>
+<code><img title='React' height="30" src=".GitHub/react.svg"></code>
 
 
 ### Pretendo Estudar
 
-<code><img title='Typescript' height="30" src="./GitHub/Typescript.svg"></code>
-<code><img title='Next.Js' height="30" src="./GitHub/nextjs.png"></code>
+<code><img title='Typescript' height="30" src=".GitHub/Typescript.svg"></code>
+<code><img title='Next.Js' height="30" src=".GitHub/nextjs.png"></code>
 <code><img title='React Native' alt='React Native' height="30" src="./GitHub/react-native-logo.png"></code>
 
 ### GitHub Stats
