@@ -39,4 +39,4 @@ Olá, me chamo Gabriel Silva tenho 17 anos sou apaixonado por programação e ar
 <a href='https://www.youtube.com/channel/UCQdFFC-ZOxK7hfsdq5qQ--g'><img title='Canal do Youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></img> </a>
 <a href='mailto:gabbrielsilvactt@gmail.com?Subject=Vim%20Pelo%20GitHub'><img title='Email para contato' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img> </a>
 
-[link Rapido](https://bit.ly/Stw_Gabriel)
+[link Rapido](https://bit.ly/StwGabriel)
