@@ -17,6 +17,7 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 ### Learning
 
 <code><img title='Javascript' height="30" src=".GitHub/JavaScript.svg"></code>
+<code><img title='Figma' height="30" src=".GitHub/Figma.svg"></code>
 <code><img title='React' height="30" src=".GitHub/React.svg"></code>
 
 
