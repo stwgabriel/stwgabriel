@@ -28,7 +28,7 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 ### Want to
 
 <code><img title='Typescript' height="30" src=".GitHub/typescript.svg"></code>
-<code><img title='Next.Js' height="30" src=".GitHub/next.svg"></code>
+<code><img title='Next.Js' height="30" src=".GitHub/nextjs.svg"></code>
 <code><img title='React Native' alt='React Native' height="30" src=".GitHub/react-native.svg"></code>
 <code><img title='Swift' height="30" src=".GitHub/swift.svg"></code>
 
