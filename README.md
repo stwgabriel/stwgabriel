@@ -13,25 +13,24 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ### Xp
 
-<code><img title='HTML5' height="30" src=".GitHub/HTML5.svg"></code>
-<code><img title='CSS3'  height="30" src=".GitHub/CSS3.svg"></code>
-<code><img title='Sass'  height="30" src=".GitHub/Sass.svg"></code>
-<code><img title='Git'   height="30" src=".GitHub/Git.svg"></code>
+<code><img title='HTML5' height="30" src=".GitHub/html5.svg"></code>
+<code><img title='CSS3'  height="30" src=".GitHub/css3.svg"></code>
+<code><img title='Sass'  height="30" src=".GitHub/sass.svg"></code>
+<code><img title='Git'   height="30" src=".GitHub/git.svg"></code>
 
 ### Learning
 
-<code><img title='Javascript' height="30" src=".GitHub/JavaScript.svg"></code>
-<code><img title='Figma' height="30" src=".GitHub/Figma.svg"></code>
-<code><img title='React' height="30" src=".GitHub/React.svg"></code>
+<code><img title='Javascript' height="30" src=".GitHub/javascript.svg"></code>
+<code><img title='Figma' height="30" src=".GitHub/figma.svg"></code>
+<code><img title='React' height="30" src=".GitHub/react.svg"></code>
 
 
 ### Want to
 
-<code><img title='Typescript' height="30" src=".GitHub/Typescript.svg"></code>
-<code><img title='Next.Js' height="30" src=".GitHub/Next.svg"></code>
-<code><img title='React Native' alt='React Native' height="30" src=".GitHub/React-Native.svg"></code>
-<code><img title='Swift' height="30" src=".GitHub/Swift.svg"></code>
-
+<code><img title='Typescript' height="30" src=".GitHub/typescript.svg"></code>
+<code><img title='Next.Js' height="30" src=".GitHub/next.svg"></code>
+<code><img title='React Native' alt='React Native' height="30" src=".GitHub/react-native.svg"></code>
+<code><img title='Swift' height="30" src=".GitHub/swift.svg"></code>
 
 <br>
 
