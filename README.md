@@ -1,13 +1,17 @@
 # Hi there <img src=".GitHub/Hi.gif" width="38px"> I'm [Gabriel](https://stwgabriel.github.io/StwGabriel/)
 
+<br>
+
 ## About Me
 
 Hello, as you may have noticed my name is Gabriel, so I will tell you a bit about myself, I am 17 years old, and I am passionate about Front-end development, graphic arts and helping! I am currently self-taught in HTML5, CSS3, JavaScript, REACT.JS and DESIGN.
 
 
+<br>
+
 ## Technologies and Tools
 
-### XP
+### Xp
 
 <code><img title='HTML5' height="30" src=".GitHub/HTML5.svg"></code>
 <code><img title='CSS3'  height="30" src=".GitHub/CSS3.svg"></code>
@@ -20,7 +24,7 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 <code><img title='React' height="30" src=".GitHub/React.svg"></code>
 
 
-### want to
+### Want to
 
 <code><img title='Typescript' height="30" src=".GitHub/Typescript.svg"></code>
 <code><img title='Next.Js' height="30" src=".GitHub/Next.svg"></code>
@@ -28,11 +32,15 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 <code><img title='Swift' height="30" src=".GitHub/Swift.svg"></code>
 
 
+<br>
+
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
+
+<br>
 
 ## Social and Professional
 
