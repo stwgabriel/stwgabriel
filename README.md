@@ -13,24 +13,24 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ### Xp
 
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
-<code><img title='CSS3'  height="30" src=".GitHub/css3.svg"></code>
-<code><img title='Sass'  height="30" src=".GitHub/sass.svg"></code>
-<code><img title='Git'   height="30" src=".GitHub/git.svg"></code>
+<code height="30">![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg)</code>
+<code>   ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
 
 ### Learning
 
-<code><img title='Javascript' height="30" src=".GitHub/javascript.svg"></code>
-<code><img title='Figma' height="30" src=".GitHub/figma.svg"></code>
-<code><img title='React' height="30" src=".GitHub/react.svg"></code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)></code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
 
 
 ### Want to
 
-<code><img title='Typescript' height="30" src=".GitHub/typescript.svg"></code>
-<code><img title='Next.Js' height="30" src=".GitHub/nextjs.svg"></code>
-<code><img title='React Native' alt='React Native' height="30" src=".GitHub/react-native.svg"></code>
-<code><img title='Swift' height="30" src=".GitHub/swift.svg"></code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)</code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 
 <br>
 
@@ -44,20 +44,10 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ## Social and Professional
 
-<a href='https://www.linkedin.com/in/stwgabriel/'> 
-  <img title='Perfil do Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> 
-</a>
-<a href='https://github.com/StwGabriel'> 
-  <img title='Perfil do GitHub' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/> 
-</a>
-<a href='https://www.instagram.com/stwgabriel/'> 
-  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> 
-</a>
-<a href='https://www.youtube.com/channel/UCQdFFC-ZOxK7hfsdq5qQ--g'>
-  <img title='Canal do Youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'/> 
-</a>
-<a href='mailto:gabrielstw@pm.me?Subject=Vim%20Pelo%20GitHub'>
-  <img title='Email para contato' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> 
-</a>
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/linkedin-shield.svg)](https://www.linkedin.com/in/stwgabriel/)
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/github-shield.svg)](https://github.com/StwGabriel)
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/instagram-shield.svg)](https://www.instagram.com/stwgabriel/)
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/twitter-shield.svg)](https://www.twitter.com/stwgabriel_/)
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:gabrielstw@pm.me?Subject=Vim%20Pelo%20GitHub)
 
 [ Link tree ](https://bit.ly/stwgabriel)
