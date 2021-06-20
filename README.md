@@ -36,18 +36,28 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ## GitHub Stats
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=dark)](https://github.com/StwGabriel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=dark)]
 
 <br>
 
 ## Social and Professional
 
-<a href='https://www.linkedin.com/in/stwgabriel/'> <img title='Perfil do Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> </a>
-<a href='https://github.com/StwGabriel'> <img title='Perfil do GitHub' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/> </a>
-<a href='https://www.instagram.com/stwgabriel/'> <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a>
-<a href='https://www.youtube.com/channel/UCQdFFC-ZOxK7hfsdq5qQ--g'><img title='Canal do Youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'/> </a>
-<a href='mailto:gabbrielsilvactt@gmail.com?Subject=Vim%20Pelo%20GitHub'><img title='Email para contato' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> </a>
+<a href='https://www.linkedin.com/in/stwgabriel/'> 
+  <img title='Perfil do Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> 
+</a>
+<a href='https://github.com/StwGabriel'> 
+  <img title='Perfil do GitHub' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/> 
+</a>
+<a href='https://www.instagram.com/stwgabriel/'> 
+  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> 
+</a>
+<a href='https://www.youtube.com/channel/UCQdFFC-ZOxK7hfsdq5qQ--g'>
+  <img title='Canal do Youtube' src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'/> 
+</a>
+<a href='mailto:gabrielstw@pm.me?Subject=Vim%20Pelo%20GitHub'>
+  <img title='Email para contato' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> 
+</a>
 
-[ Link tree ](https://bit.ly/StwGabriel)
+[ Link tree ](https://bit.ly/stwgabriel)
