@@ -28,7 +28,7 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 ### Want to
 
 <code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
-<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg) </code>
+<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)</code>
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 
