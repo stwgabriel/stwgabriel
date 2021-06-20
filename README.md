@@ -13,24 +13,24 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ### Xp
 
-<code height="30">![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg)</code>
-<code>   ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
+<code height="30"> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg) </code>
 
 ### Learning
 
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)></code>
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg) </code>
 
 
 ### Want to
 
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)</code>
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
-<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg) </code>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg) </code>
 
 <br>
 
