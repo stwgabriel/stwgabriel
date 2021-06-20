@@ -50,4 +50,4 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/twitter-shield.svg)](https://www.twitter.com/stwgabriel_/)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:gabrielstw@pm.me?Subject=Vim%20Pelo%20GitHub)
 
-[ Link tree ](https://bit.ly/stwgabriel)
+[ Link Tree ](https://bit.ly/stwgabriel)
