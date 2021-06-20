@@ -13,7 +13,7 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ### Xp
 
-<code><img title='HTML5' height="30" src=".GitHub/html5.svg"></code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
 <code><img title='CSS3'  height="30" src=".GitHub/css3.svg"></code>
 <code><img title='Sass'  height="30" src=".GitHub/sass.svg"></code>
 <code><img title='Git'   height="30" src=".GitHub/git.svg"></code>
