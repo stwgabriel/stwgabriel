@@ -36,7 +36,7 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ## GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark-blue)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=dark)
 
