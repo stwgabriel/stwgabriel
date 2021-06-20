@@ -13,16 +13,18 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ### Xp
 
-<code height="30"> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg) </code> <span>  </span>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg) </code> <span>  </span>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg) </code> <span>  </span>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg) </code> <span>  </span>
+<code title='HTML 5'>
+![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)
+</code> <span>  </span>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg)</code> <span>  </span>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code> <span>  </span>
+<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code> <span>  </span>
 
 ### Learning
 
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg) </code>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg) </code>
-<code> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg) </code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
+<code>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
 
 
 ### Want to
