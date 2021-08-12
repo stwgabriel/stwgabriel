@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello, as you may have noticed my name is Gabriel, so I will tell you a bit about myself, I am 17 years old, and I am passionate about Front-end development, graphic arts and helping! I am currently self-taught in HTML5, CSS3, JavaScript, REACT.JS and DESIGN.
+Hello, as you may have noticed my name is Gabriel, so I will tell you a bit about myself, I am 18 years old, and I am passionate about Front-end development, graphic arts and helping! I am currently self-taught in HTML5, CSS3, JavaScript, REACT.JS and DESIGN.
 
 
 <br>
