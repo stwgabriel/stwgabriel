@@ -47,4 +47,4 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/instagram-shield.svg)](https://www.instagram.com/stwgabriel/)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:gabrielstw@pm.me?Subject=Vim%20Pelo%20GitHub)
 
-[ Link Tree ](https://bit.ly/stwgabriel)
+[ Link Tree ](https://cutt.ly/stwgabriel)
