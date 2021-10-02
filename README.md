@@ -13,11 +13,11 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 
 ### Xp
 
-<code title='HTML 5'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
+<code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
 <code title='CSS 3'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg)</code>
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
+<code title='HTML 5'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
 <code title='Git'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
-<code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
 
 ### Learning
 
@@ -28,15 +28,15 @@ Hello, as you may have noticed my name is Gabriel, so I will tell you a bit abou
 ### Want to
 
 <code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
-<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)</code>
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
+<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)</code>
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 
 <br>
 
 ## GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=vue-dark)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=vue-dark)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=vue-dark)
 
 <br>
 
