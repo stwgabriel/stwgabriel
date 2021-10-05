@@ -1,4 +1,4 @@
-# Hi there <img src=".GitHub/Hi.gif" width="38px"> I'm [Gabriel](https://cutt.ly/stwgabriel)
+# Hi, <img src=".GitHub/Hi.gif" width="35px"> I'm [Gabriel](https://cutt.ly/stwgabriel)
 
 <br>
 
