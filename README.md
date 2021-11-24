@@ -2,17 +2,16 @@
 
 <br>
 
-## About Me
+## About Me 🧑‍💻
 
 Heyo, Gabriel here, I'm 18, and I'm passionate about Front-end development, graphic arts, and helping!
 Self-taught in Front-end development & UX Design.
 
-UX Design, React, JavaScript, HTML, CSS, Sass, Git, Node.
-
+UX Design, React, JavaScript, HTML, CSS, Sass, Git, Node, Figma.
 
 <br>
 
-## Technologies and Tools
+## Technologies and Tools 💻🛠️
 
 ### Xp
 
@@ -37,13 +36,13 @@ UX Design, React, JavaScript, HTML, CSS, Sass, Git, Node.
 
 <br>
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=vue-dark)
 
 <br>
 
-## Social and Professional
+## Social and Professional 🏄‍♂️🤵‍♂️
 
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/linkedin-shield.svg)](https://www.linkedin.com/in/stwgabriel/)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/github-shield.svg)](https://github.com/StwGabriel)
