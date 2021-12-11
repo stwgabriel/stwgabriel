@@ -20,12 +20,12 @@ UX Design, React, JavaScript, HTML, CSS, Sass, Git, Node, Figma.
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
 <code title='HTML 5'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
 <code title='Git'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
+<code title='Figma'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
 
 ### Learning
 
-<code title='Node.Js'>![icon](https://github.com/stwgabriel/assets/blob/main/icons/node-js-icon.svg)</code>
 <code title='React'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
-<code title='Figma'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
+<code title='Node.Js'>![icon](https://github.com/stwgabriel/assets/blob/main/icons/node-js-icon.svg)</code>
 
 ### Want to
 
