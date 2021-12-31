@@ -7,7 +7,7 @@
 Heyo, Gabriel here, I'm 18, and I'm passionate about Front-end development, graphic arts, and helping!
 Self-taught in Front-end development & UX Design.
 
-UX Design, React, JavaScript, HTML, CSS, Sass, Git, Node, Figma.
+React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 <br>
 
