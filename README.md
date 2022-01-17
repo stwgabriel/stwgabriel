@@ -13,25 +13,25 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 ## Technologies and Tools 💻🛠️
 
-### Xp
+### Main Skills
 
+<code title='React'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
 <code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
-<code title='CSS 3'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css3-icon.svg)</code>
+<code title='CSS 3'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css-icon.svg)</code>
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
-<code title='HTML 5'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html5-icon.svg)</code>
+<code title='HTML 5'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html-icon.svg)</code>
 <code title='Git'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
 <code title='Figma'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
 
-### Learning
-
-<code title='React'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
-<code title='Node.Js'>![icon](https://github.com/stwgabriel/assets/blob/main/icons/node-js-icon.svg)</code>
-
-### Want to
+### Currently learning
 
 <code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
+<code title='Node.Js'> ![icon](https://github.com/stwgabriel/assets/blob/main/icons/nodejs-icon.svg) </code>
+
+### I‘ll learn
+
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
-<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)</code>
+<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 
 <br>
