@@ -30,6 +30,7 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 ### I‘ll learn
 
+<code title='Redux'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/redux-icon.svg)</code>
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
 <code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
