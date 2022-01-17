@@ -17,9 +17,9 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 <code title='React'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
 <code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
-<code title='CSS 3'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css-icon.svg)</code>
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
-<code title='HTML 5'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html-icon.svg)</code>
+<code title='CSS'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css-icon.svg)</code>
+<code title='HTML'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html-icon.svg)</code>
 <code title='Git'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
 <code title='Figma'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
 
@@ -31,15 +31,15 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 ### I‘ll learn
 
 <code title='Redux'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/redux-icon.svg)</code>
-<code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
 <code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
+<code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
 
 <br>
 
 ## GitHub Stats 📊
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=vue-dark)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=vue-dark)
 
 <br>
 
