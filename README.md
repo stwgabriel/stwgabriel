@@ -39,7 +39,11 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 ## GitHub Stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwGabriel&layout=compact&theme=vue-dark)   ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=StwGabriel&show_icons=true&theme=vue-dark)
+  <a href="https://github.com/stwgabriel">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/>
+      
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/>
+
 
 <br>
 
