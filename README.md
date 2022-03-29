@@ -16,6 +16,7 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 ### Main Skills
 
 <code title='React'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
+<code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
 <code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
 <code title='CSS'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css-icon.svg)</code>
@@ -25,13 +26,12 @@ React, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 ### Currently learning
 
-<code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
+<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='Node.Js'> ![icon](https://github.com/stwgabriel/assets/blob/main/icons/nodejs-icon.svg) </code>
 
 ### I‘ll learn
 
 <code title='Redux'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/redux-icon.svg)</code>
-<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
 
