@@ -1,4 +1,4 @@
-# Hello, <img src=".GitHub/Hi.gif" width="35px"> I'm [Gabriel](https://cutt.ly/stwgabriel)
+# Hello, <img height="40px"  src=".GitHub/Hi.gif"> I'm [Gabriel](https://cutt.ly/stwgabriel)
 
 <br>
 
@@ -43,6 +43,7 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/>
       
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/>
+
 
 
 <br>
