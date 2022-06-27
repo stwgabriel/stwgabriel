@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍💻
 
-Heyo, Gabriel here, I'm 18, and I'm passionate about Front-end development, graphic arts, and helping!
+Heyo, Gabriel here, I'm 18, passionate about Front-end development, graphic arts, and helping!
 Self-taught in Front-end development & UX Design.
 
 Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
@@ -15,7 +15,8 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
 
 ### Main Skills
 
-<code title='React'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
+<code title='NextJs'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
+<code title='ReactJs'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
 <code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
 <code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
@@ -26,7 +27,6 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
 
 ### Currently learning
 
-<code title='Next'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='Node.Js'> ![icon](https://github.com/stwgabriel/assets/blob/main/icons/nodejs-icon.svg) </code>
 
 ### I‘ll learn
