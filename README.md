@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍💻
 
-Heyo, Gabriel here, I'm 18, passionate about Front-end development, graphic arts, and helping!
+Hello, Gabriel here, I'm an 18 years old guy passionate about Front-end development, graphic arts, and helping!
 Self-taught in Front-end development & UX Design.
 
 ```
@@ -45,13 +45,11 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
 ## GitHub Stats 📊
 
   <a href="https://github.com/stwgabriel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/>
-      
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/>
-
-
-
-<br>
+  <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/><br>
+  <img width="450rem" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/> 
+  </a>
+  
+<br><br>
 
 ## Social and Professional 🏄‍♂️🤵‍♂️
 
@@ -60,4 +58,4 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/instagram-shield.svg)](https://www.instagram.com/stwgabriel/)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:talktogabriel@pm.me?Subject=Vim%20Pelo%20GitHub)
 
-[ Link Tree ](https://cutt.ly/stwgabriel)
+[ Link Tree ](https://cutt.ly/stwGabriel)
