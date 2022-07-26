@@ -7,11 +7,6 @@
 Hello, Gabriel here, I'm an 18 years old guy passionate about Front-end development, graphic arts, and helping!
 Self-taught in Front-end development & UX Design.
 
-```
-if (day === 23) return age += 1;
-```
-
-
 Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
 <br>
