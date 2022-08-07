@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍💻
 
-Hello, Gabriel here, I'm an 18 years old guy passionate about Front-end development, graphic arts, and helping!
+Hello, Gabriel here, I'm an 19 years old guy passionate about Front-end development, graphic arts, and helping!
 Self-taught in Front-end development & UX Design.
 
 Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
