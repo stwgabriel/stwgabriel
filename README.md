@@ -4,7 +4,7 @@
 
 ## About Me 🧑‍💻
 
-Hi! Gabriel here, I'm a 19 year old Front-End Developer and UX Designer located in Brazil, passionate about Front-end development, graphic arts and helping! I'm always interested in cool stuff.
+Hello! Gabriel here, I'm a 19 year old front-end developer and UX designer located in Brazil, passionate about front-end development, graphic arts and helping! I'm always interested in cool stuff.
 
 Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
 
