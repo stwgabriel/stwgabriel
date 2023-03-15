@@ -29,7 +29,7 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
 
 <code title='Node.Js'> ![icon](https://github.com/stwgabriel/assets/blob/main/icons/nodejs-icon.svg) </code>
 
-### I‘ll learn
+### I’ll learn
 
 <code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
@@ -38,9 +38,9 @@ Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figm
 
 ## GitHub Stats 📊
 
-  <a href="https://github.com/stwgabriel">
-  <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/><br>
-  <img width="450rem" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/> 
+  <a href="https://github.com/stwgabriel" style="display: flex">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/> 
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/>
   </a>
   
 <br><br>
