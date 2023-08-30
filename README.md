@@ -4,52 +4,33 @@
 
 ## About Me 🧑‍💻
 
-Hello! Gabriel here, I'm a 19 year old front-end developer and UX designer located in Brazil, passionate about front-end development, graphic arts and helping! I'm always interested in cool stuff.
+Passionate about technology, for more than two years I have sought to create innovative, user-centered and impactful solutions, combining my skills as a Full Stack Developer and UI Designer. My goal is to contribute to challenging projects, exploring the full potential of technology in search of exceptional results.
 
 Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
-
-<br>
 
 ## Technologies and Tools 💻🛠️
 
 ### Main Skills
-
 <code title='NextJs'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)</code>
 <code title='ReactJs'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)</code>
+<code title='Node.Js'> ![icon](https://github.com/stwgabriel/assets/blob/main/icons/nodejs-icon.svg)</code>
 <code title='Typescript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)</code>
-<code title='Javascript'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/javascript-icon.svg)</code>
 <code title='Redux'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/redux-icon.svg)</code>
 <code title='Sass'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/sass-icon.svg)</code>
-<code title='CSS'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/css-icon.svg)</code>
-<code title='HTML'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/html-icon.svg)</code>
 <code title='Git'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)</code>
 <code title='Figma'>![icon](https://github.com/StwGabriel/Assets/blob/main/icons/figma-icon.svg)</code>
 
 ### Currently learning
-
-<code title='Node.Js'> ![icon](https://github.com/stwgabriel/assets/blob/main/icons/nodejs-icon.svg) </code>
-
-### I’ll learn
-
-<code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 <code title='React Native'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-native-icon.svg)</code>
 
-<br>
-
-## GitHub Stats 📊
-
-  <a href="https://github.com/stwgabriel" style="display: flex">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=stwGabriel&layout=compact&theme=vue-dark"/> 
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stwGabriel&layout=compact&theme=vue-dark"/>
-  </a>
-  
-<br><br>
+### I’ll learn
+<code title='Swift'> ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/swift-icon.svg)</code>
 
 ## Social and Professional 🏄‍♂️🤵‍♂️
 
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/linkedin-shield.svg)](https://www.linkedin.com/in/stwgabriel/)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/github-shield.svg)](https://github.com/StwGabriel)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/instagram-shield.svg)](https://www.instagram.com/stwgabriel/)
-   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:talktogabriel@pm.me?Subject=Vim%20Pelo%20GitHub)
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:contato@stwgabriel.com?Subject=hello)
 
 [ Link Tree ](https://cutt.ly/stwGabriel)
