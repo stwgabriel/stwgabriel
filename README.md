@@ -1,12 +1,10 @@
-# Hello, <img height="40px"  src=".GitHub/Hi.gif"> I'm [Gabriel](https://cutt.ly/stwgabriel)
-
-<br>
+# Hello <a>Gab</a> here
 
 ## About Me 🧑‍💻
 
 Passionate about technology, for more than two years I have sought to create innovative, user-centered and impactful solutions, combining my skills as a Full Stack Developer and UI Designer. My goal is to contribute to challenging projects, exploring the full potential of technology in search of exceptional results.
 
-Next, React, Typescript, JavaScript, HTML, CSS, Sass, Git, Node, UX Design, Figma.
+Next, React, Node, Typescript, Sass, Git, UI Design, Figma and more tech stuff.
 
 ## Technologies and Tools 💻🛠️
 
