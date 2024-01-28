@@ -27,7 +27,7 @@ Next, React, Node, Typescript, Sass, Git, UI Design, Figma and more tech stuff.
 ## Social and Professional 🏄‍♂️🤵‍♂️
 
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/linkedin-shield.svg)](https://www.linkedin.com/in/stwgabriel/)
-   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/instagram-shield.svg)](https://www.instagram.com/stwgabriel/)
+   [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/instagram-shield.svg)](https://www.instagram.com/stw.gabriel/)
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:contato@stwgabriel.com?Subject=hello)
 
 [ Link Tree ](https://cutt.ly/stwGabriel)
