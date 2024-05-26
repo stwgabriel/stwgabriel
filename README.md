@@ -1,7 +1,7 @@
 # Hello <a href="https://stwgabriel.com" aria-label="gabriel portfolio">Gabe</a> here
 
 ## About Me 🧑‍💻
-Passionate about technology and user experience, and since 2019, I have been dedicated to creating innovative, user-centered, and impactful solutions. By leveraging my skills as a Full Stack Developer and UI Designer, I aim to contribute to challenging projects and explore the full potential of technology to achieve exceptional results.
+Passionate about technology and user experience. Since 2019, I have been dedicated to creating innovative, user-centered, and impactful solutions. By leveraging my skills as a Full Stack Developer and UI Designer, I aim to contribute to challenging projects and explore the full potential of technology to achieve exceptional results.
 
 Next, Node, Typescript, Sass, Git, UI Design, Figma and much more tech stuff.
 
