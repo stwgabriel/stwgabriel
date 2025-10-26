@@ -1,9 +1,17 @@
 # Hello <a href="https://stwgabriel.com" aria-label="gabriel portfolio">Gabe</a> here
 
 ## About Me 🧑‍💻
-Passionate about technology and user experience. Since 2019, I have been dedicated to creating innovative, user-centered, and impactful solutions. By leveraging my skills as a Full Stack Developer and UI Designer, I aim to contribute to challenging projects and explore the full potential of technology to achieve exceptional results.
+Senior Full Stack Developer with 5+ years of experience building scalable, user-centered digital solutions that drive measurable business impact. Proven track record of leading product development from conception to delivery, with deep expertise in modern JavaScript ecosystem, cloud architecture, and data-driven applications. Pioneer in integrating AI agents for workflow optimization, achieving significant improvements in development efficiency and code quality.
 
-Next, Node, Typescript, Sass, Git, UI Design, Figma and much more tech stuff.
+### Key Achievements
+
+- Led development of high-traffic applications handling thousands of requests
+- Improved application performance by 40% through optimization and architectural decisions
+- Successfully delivered many full-stack projects across multiple industries
+- Managed multiple teams peers to established development best practices across stages
+- Optimized workflow efficiency by 60% through strategic implementation of AI agents for code review, testing automation, and delivery quality assurance
+
+Technical Expertise: React | Node.js | TypeScript | Python | GoLang | AWS | PostgreSQL | Docker | CI/CD | AI-Driven Development
 
 ## Find me on 🌐
 
