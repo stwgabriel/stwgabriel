@@ -23,6 +23,6 @@ Technical Expertise: React | Node.js | TypeScript | Python | GoLang | AWS | Post
 
 ## Find me on 🌐
 
-   [![linkedin](https://github.com/StwGabriel/Assets/blob/main/readme-shields/linkedin-shield.svg)](https://www.linkedin.com/in/stwgabriel/)
+   [![linkedin](https://github.com/StwGabriel/Assets/blob/main/readme-shields/linkedin-shield.svg)](https://www.linkedin.com/in/stwgabriel2/)
 
 [ Meet Innovarts ](https://innovarts.co) | [ Links ](https://cutt.ly/stwGabriel)
